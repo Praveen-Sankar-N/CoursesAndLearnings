@@ -2,7 +2,7 @@ ORG 0X7C00
 BITS 16
 
 start:
-    mov si, message                 ; Copying address of message to si register
+    mov si, message                 ; Copying address of message label to si register
     call print
     jmp $
 

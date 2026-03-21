@@ -31,5 +31,5 @@ praveen:
 	.section	.rodata
 	.align	2
 .LC0:
-	.word	1123614720
+	.word	1061158912
 	.ident	"GCC: (13.2.0-11ubuntu1+12) 13.2.0"
